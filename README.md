@@ -1,5 +1,13 @@
 <header>
 
+Development repository for https://ephramstevens.github.io/book_reviews/
+
+Run server locally to be broadcast on http://127.0.0.1:4000/book_reviews/
+
+bundle exec jekyll serve -b /book_reviews
+
+
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
