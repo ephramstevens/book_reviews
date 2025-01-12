@@ -1,10 +1,10 @@
 #/Library/Ruby/Gems/2.6.0/gems/minima-2.5.1/
 
-title: Book Reviews
-#author: GitHub User
+title: Ephram's Book Reviews
+#author: Ephram Stevens
 #email: your-email@domain.com
-description: >
-  Review of Children's Books
+description: > # this means to ignore newlines until "show_excerpts:"
+  Reviews of children's book by an avid reader.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +16,13 @@ kramdown:
 minima:
   date_format: "%b %-d, %Y"
 
-#header_pages:
-#- thanks.md
+header_pages:
+- posts.md
+
+# generate social links in footer
+#twitter_username: Glue_X
+#facebook_username: GlueXperiment
+#instagram_username: gluexexperiment
 
 # Build settings
 theme: minima
