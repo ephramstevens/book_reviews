@@ -1,1 +1,31 @@
+#/Library/Ruby/Gems/2.6.0/gems/minima-2.5.1/
+
+title: Book Reviews
+#author: GitHub User
+#email: your-email@domain.com
+description: >
+  Review of Children's Books
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+kramdown:
+  auto_ids: true
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+#header_pages:
+#- thanks.md
+
+# Build settings
 theme: minima
+#theme: minimal-mistakes-jekyll
+#theme: minimal
+#theme: hyde
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-gist
