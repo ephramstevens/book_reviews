@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peter Nimble
+title: Ranger's Aprentice - The Ruins of Gorlan
 date: 2025-01-12
 ---
 

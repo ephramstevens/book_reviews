@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peter Nimble
+title: Sophie Quire
 date: 2025-01-12
 ---
 
